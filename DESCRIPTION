@@ -1,8 +1,8 @@
 Package: grcMalariaGeodata
 Type: Package
 Title: Geographical data required by the grcMalaria R package in order to generate maps from GRC data
-Version: 0.2.0
-Date: 2023-02-22
+Version: 0.3.0
+Date: 2023-10-04
 Author: Olivo Miotto
 Maintainer: Olivo Miotto <olivo@tropmedres.ac>
 Description: Geographical data required by the grcMalaria R package in order to generate maps.
